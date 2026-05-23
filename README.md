@@ -25,3 +25,5 @@ Dataset download links are included in the SQL script.
 
 ## Purpose
 Practice real-world business analytics queries and build a SQL portfolio project.
+
+![Revenue Segmentation](images/Revenue_Segmentation.png)
