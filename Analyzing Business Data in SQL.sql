@@ -469,7 +469,7 @@ ORDER BY count_orders_rank ASC;
 
 
 
--- Create a crosstab table of orders by users in each month
+-- Create a crosstab table of revenue by users in each month
 -- Import tablefunc
 CREATE EXTENSION IF NOT EXISTS tablefunc;
 
